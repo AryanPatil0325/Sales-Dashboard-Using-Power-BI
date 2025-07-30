@@ -2,6 +2,7 @@
 Sales Dashboard which is controlled by using filters , which are based on YTD month and Year.<br>
 Implemented Dynamic Filter button which can be controlled throught a button to apply the filters on the dashboard.<br>
 Entire calculation is based on the YTD month and Year
+Implemented Last refresh Date 
 # KPI's
 1. YTD Sales based on Year
 2. YTD Growth 
