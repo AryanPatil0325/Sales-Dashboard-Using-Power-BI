@@ -7,7 +7,7 @@ This Power BI project presents a **comprehensive sales dashboard** that provides
 ## 🔧 Key Features
 
 ### 🎯 Dynamic Filtering
-- Implemented **YTD Month** and **Year-based filters**.
+- Implemented **YTD Month**,**Category**,**State** and **Quantity/Amount** types of slicers.
 - Added a **Dynamic Filter Button** to toggle filters on/off across the dashboard seamlessly.
 
 ### 🔄 Real-time Indicators
