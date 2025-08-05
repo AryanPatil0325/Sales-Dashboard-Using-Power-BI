@@ -37,10 +37,13 @@ The dashboard provides insights through the following KPIs and visuals:
 ### 🔍 Overview Screenshots
 
 #### Dashboard View 1  
-<img width="1372" height="771" alt="Dashboard_2" src="https://github.com/user-attachments/assets/a522ed5a-ad48-4d8b-b443-d2e53984b5b6" />
+<img width="1437" height="807" alt="Dashboard1" src="https://github.com/user-attachments/assets/a1eaedba-224f-46f3-a850-5d141a0320c4" />
 
 #### Dashboard View 2  
-<img width="1307" height="730" alt="Dashboard_1" src="https://github.com/user-attachments/assets/9f1e333a-3264-45a8-b3b3-a0e8fcf760f7" />
+<img width="1436" height="803" alt="Dashboard 2" src="https://github.com/user-attachments/assets/81546cf0-4298-42a2-9ab6-2d0ed09d4d23" />
+
+#### Dashboard View 3
+<img width="1445" height="808" alt="Dashboard 3" src="https://github.com/user-attachments/assets/971a7476-723a-46c2-a0b3-8ab38b4dc18f" />
 
 ---
 
